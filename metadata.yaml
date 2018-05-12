@@ -1,10 +1,14 @@
 _repo: Briefe-von-Goethe-an-Lavater-Aus-den-Jahren-1774-bis-1783_49593
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hirzel, Heinrich
       gutenberg_agent_id: '45433'
       url: http://www.gutenberg.org/2009/agents/45433
+covers:
+- cover_type: archival
+  image_path: 49593-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49593#Briefe-von-Goethe-an-Lavater-Aus-den-Jahren-1774-bis-1783
 gutenberg_issued: '2015-08-04'
 gutenberg_type: Text
 identifiers:
